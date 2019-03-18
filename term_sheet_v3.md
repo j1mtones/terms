@@ -4,12 +4,12 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 
 | Company               	| [Company name] Inc., a [State] corporation               	|
 |------------------------|-----------------------------------------------------------|
-| Purchase Amount       	| $[__________]                                               	|
-| Purchase Date         	| ___________, 2019                                     	|
-| Percentage            	| [__]% (subject to redemption as provided in Section 3)     	|
-| Conversion Trigger    	| $[__,000,000] round of preferred                            	|
-| Redemption Start Date 	| [__] months after Purchase Date                            	|
-| Redemption Amount     	| [__]% of the Company’s gross revenue (as defined by GAAP) 	|
+| Purchase Amount       	| $200,000                                               	|
+| Purchase Date         	| May 1, 2019                                     	|
+| Percentage            	| 20% (subject to redemption as provided in Section 3)     	|
+| Conversion Trigger    	| $1,000,000 round of preferred                            	|
+| Redemption Start Date 	| 36 months after Purchase Date                            	|
+| Redemption Amount     	| 5% of the Company’s gross revenue (as defined by GAAP) 	|
 
 * _See *Section* 4 for certain additional defined terms_
 
