@@ -10,6 +10,7 @@ THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGIST
 | Conversion Trigger    	| $1,000,000 round of preferred                            	|
 | Redemption Start Date 	| 36 months after Purchase Date                            	|
 | Redemption Amount     	| 5% of the Company’s gross revenue (as defined by GAAP) 	|
+| Max Redemption Payment | 3X of Purchase Amount                                  	|
 
 * _See *Section* 4 for certain additional defined terms_
 
